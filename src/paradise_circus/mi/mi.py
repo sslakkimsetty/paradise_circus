@@ -5,6 +5,9 @@ import tensorflow as tf
 Functions for evaluating mutual information between two arrays. 
 """
 
+__all__ = [
+    "mi"
+]
 
 def sampleCoords(dims, n):
     """
