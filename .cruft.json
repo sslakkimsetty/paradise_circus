@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/cthoyt/cookiecutter-snekpack",
+  "commit": "3e1ec8f8cbf62ed005769e9f93304e63497803f2",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "paradise_circus",
+      "package_name_stylized": "Paradise Circus",
+      "short_description": "It's a circus in paradise.",
+      "author_name": "Sai Srikanth Lakkimsetty",
+      "author_email": "saislakkimsetty@gmail.com",
+      "github_organization_name": "sslakkimsetty",
+      "github_repository_name": "paradise_circus",
+      "command_line_interface": true,
+      "gitlab": false,
+      "_template": "https://github.com/cthoyt/cookiecutter-snekpack"
+    }
+  },
+  "directory": null
+}
